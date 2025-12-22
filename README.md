@@ -1,5 +1,5 @@
 # TrueSight_App_Development_UI
-https://crayon-nice-21061835.figma.site
+__Feel free to interact with the TrueSight App runthrough__: https://crayon-nice-21061835.figma.site
 
 The TrueSight companion app is a comprehensive eye-health management platform designed to interface with smart adaptive glasses. It transitions vision correction from a static hardware experience into a proactive, data-driven wellness journey.
 
