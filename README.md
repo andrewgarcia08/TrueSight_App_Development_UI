@@ -30,4 +30,9 @@ __Shopping & AR Features__: To combine style with technology, the app includes a
 <img src="assets/TryOn1.jpeg" width="300" height="700">
 <img src="assets/TryOn2.jpeg" width="300" height="700">
 
+<p float="left">
+  <img src="assets/TryOn1.jpeg" width="300" height="700" />
+  <img src="assets/TryOn2.jpeg" width="300" height="700" />
+</p>
+
 
