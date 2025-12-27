@@ -20,11 +20,11 @@ __Health Tracking & Real-Time Metrics__: By syncing with the glasses via Bluetoo
 
 <div class="container">
   <div class="description">
-    <p>__Health Tracking & Real-Time Metrics__: By syncing with the glasses via Bluetooth, the app provides deep analytics into daily visual habits.
-        * Real-time Biometrics: It tracks specific metrics including blink rate, eye strain levels, and total focus time.
-        * Optimal Habits: The app monitors "Screen Distance" to ensure users are viewing devices from an optimal range (e.g., 24 inches).
-        * Proactive Insights: The app generates behavioral notifications, such as "Take a break soon," after detecting prolonged screen usage.
-        * Health Scoring: Users receive a weekly average health score based on prescription accuracy, eye muscle health, and screen time trends. </p>
+    <p>__Health Tracking & Real-Time Metrics__: By syncing with the glasses via Bluetooth, the app provides deep analytics into daily visual habits.</p>
+    <p> * Real-time Biometrics: It tracks specific metrics including blink rate, eye strain levels, and total focus time. </p>
+    <p> * Optimal Habits: The app monitors "Screen Distance" to ensure users are viewing devices from an optimal range (e.g., 24 inches). </p>
+    <p> * Proactive Insights: The app generates behavioral notifications, such as "Take a break soon," after detecting prolonged screen usage. </p>
+    <p> * Health Scoring: Users receive a weekly average health score based on prescription accuracy, eye muscle health, and screen time trends. </p>
     </div>
 
   <div class="image-box">
