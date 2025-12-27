@@ -23,8 +23,8 @@ __Clinical Integration__: A major pillar of the strategy is positioning the app 
 * Data Portability: Users can export their vision history, clinical notes, and tracking data as Text, JSON, or Printable HTML files to share with providers.
 
 <p float="left">
-  <img src="assets/AptSync1.jpeg" width="250" height="600" />
-  <img src="assets/AptSync2.jpeg" width="200" height="600" />
+  <img src="assets/AptSync1.jpeg" width="250" height="500" />
+  <img src="assets/AptSync2.jpeg" width="200" height="500" />
 </p>
 
 __Shopping & AR Features__: To combine style with technology, the app includes a retail component.
