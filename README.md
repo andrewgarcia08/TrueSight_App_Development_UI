@@ -26,3 +26,8 @@ __Clinical Integration__: A major pillar of the strategy is positioning the app 
 __Shopping & AR Features__: To combine style with technology, the app includes a retail component.
 * Virtual Try-On: An AR (Augmented Reality) feature allows users to see how different frame styles—such as "Urban Chic" or "Professional"—look on their face before purchasing.
 * Personalized Shop: The store highlights frames that are specifically compatible with the TrueSight adaptive lenses.
+
+<img src="assets/TryOn1.jpeg" width="700">
+<img src="assets/TryOn2.jpeg" width="700">
+
+
