@@ -24,7 +24,7 @@ __Clinical Integration__: A major pillar of the strategy is positioning the app 
 
 <p float="left">
   <img src="assets/AptSync1.jpeg" width="187" height="540" />
-  <img src="assets/AptSync2.jpeg" width="200" height="500" />
+  <img src="assets/AptSync2.jpeg" width="183" height="503" />
 </p>
 
 __Shopping & AR Features__: To combine style with technology, the app includes a retail component.
