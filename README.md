@@ -16,7 +16,7 @@ __Health Tracking & Real-Time Metrics__: By syncing with the glasses via Bluetoo
 * Proactive Insights: The app generates behavioral notifications, such as "Take a break soon," after detecting prolonged screen usage.
 * Health Scoring: Users receive a weekly average health score based on prescription accuracy, eye muscle health, and screen time trends.
 
-<img src="assets/VisionDashboard.jpeg" width="300" height="700"/>
+<img src="assets/VisionDashboard.jpeg" width="175" height="350"/>
 
 
 __Clinical Integration__: A major pillar of the strategy is positioning the app as a "continuous monitoring" tool that bridges the gap between physical doctor visits.
